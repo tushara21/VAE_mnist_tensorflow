@@ -16,5 +16,5 @@ The sample output of latent space representation and latent space representation
 ### Example: Population Evolution over multiple epochs and gene mutations
 
 <div>
-<img src="/sample_outputs/Latent_space_image.png">
+<img src="/sample_outputs/Latent_space_image.png" height="450">
 </div>
