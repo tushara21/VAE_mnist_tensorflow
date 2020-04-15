@@ -13,7 +13,7 @@ Run the init_challenge.py
 
 The sample output of latent space representation and latent space representation along with original test points are stored in the sample_outputs folder.
 
-### Example: Population Evolution over multiple epochs and gene mutations
+### Example: Clustering of digits in the latent space
 
 <div>
 <img src="/sample_outputs/Latent_space_image.png" height="450">
